@@ -1,11 +1,13 @@
 - 👋 Hello, I’m @OngidiGeofrey
 - 👀Full stack web developer. 
 - Android developer
-- Languages 
-    Web - Php Laravel, ReactJs ,NodeJS, VueJs
+- Languages <br>
+    Web - Php Laravel, ReactJs ,NodeJS, VueJs <br>
     Android - Java 
 - Currently learning Kotlin
 - Conversant with laravel controllers, views , routes , laravel breeze , Laravel Jetbreams , etc
+
+- Collaboration tools : Docker , git and Github
 -  How to reach me : call/whatsaap : 0717907898 | 0748974489 ,  email: ongidigeofrey@gmail.com
 
 <!---
