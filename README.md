@@ -19,3 +19,13 @@ Android
 jave 
 
 Currently learning Kotlin
+
+I will feel great to connect with you.
+
+Call/Whatsaap : 0717907898/0748974489
+email :ongidigeofrey@gmail.com
+website : https://bit.ly/OngidiGeofrey/
+linkedlin :https://www.linkedin.com/in/geofrey-ongidi-4391a4211/
+
+
+
