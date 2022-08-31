@@ -1,16 +1,21 @@
-- 👋 Hello, I’m @OngidiGeofrey
-- 👀Full stack web developer. 
-- Android developer
-- Languages <br>
-    Web - Php Laravel, ReactJs ,NodeJS, VueJs <br>
-    Android - Java 
-- Currently learning Kotlin
-- Conversant with laravel controllers, views , routes , laravel breeze , Laravel Jetbreams , etc
+- 👋 
 
-- Collaboration tools : Docker , git and Github
--  How to reach me : call/whatsaap : 0717907898 | 0748974489 ,  email: ongidigeofrey@gmail.com
 
-<!---
-OngidiGeofrey/OngidiGeofrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Ongidi Geofrey. I am a result-driven Software developer.I aim to explore, build and practice building and manage world-class systems by creating functional, simple and attractive systems .
+
+My excellent problem solving skills combined with a can-do attitude enables me to ensure the system’s performance, design, and user experience are up to the required standards.
+
+To guarantee that clients visions are brought to life, I do  ensure that unnecessary navigation options are trimmed down, apply responsive design and keep up with recent industry trends.
+
+
+Web development technologies 
+
+reactJs,NodeJS,Bootstrap, Laravel,Django, Databases(SQL)
+
+Web Design
+Wordpress
+
+Android 
+jave 
+
+Currently learning Kotlin
