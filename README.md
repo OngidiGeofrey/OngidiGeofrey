@@ -1,7 +1,7 @@
 - 👋 
 
 
-My name is Ongidi Geofrey. I am a result-driven Software developer.I aim to explore, build and practice building and manage world-class systems by creating functional, simple and attractive systems .
+My name is Ongidi E. Geofrey. I am a result-driven Software developer.I aim to explore, build and practice building and manage world-class systems by creating functional, simple and attractive systems .
 
 My excellent problem solving skills combined with a can-do attitude enables me to ensure the system’s performance, design, and user experience are up to the required standards.
 
@@ -10,13 +10,14 @@ To guarantee that clients visions are brought to life, I do  ensure that unneces
 
 Web development technologies 
 
-reactJs,NodeJS,Bootstrap, Laravel,Django, Databases(SQL)
+reactJs,NodeJS,Bootstrap,Laravel,Django,Databases(SQL)
 
 Web Design
 Wordpress
+webflow
 
 Android 
-jave 
+Java 
 
 Currently learning Kotlin
 
