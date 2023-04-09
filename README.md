@@ -9,17 +9,18 @@ To guarantee that clients visions are brought to life, I do  ensure that unneces
 
 
 Web development technologies 
-
-reactJs,NodeJS,Bootstrap,Laravel,Django,Databases(SQL)
+NodeJS,Bootstrap,Laravel,CodeIgniter,Databases(SQL),E-commerce, Cloud Computing
 
 Web Design
+
 Wordpress
 webflow
+SEO expert
 
 Android 
 Java 
 
-Currently learning Kotlin
+Currently learning Flutter, ReactJs and AngularJs
 
 I will feel great to connect with you.
 
