@@ -9,18 +9,19 @@ To guarantee that clients visions are brought to life, I do  ensure that unneces
 
 
 Web development technologies 
-NodeJS,Bootstrap,Laravel,CodeIgniter,Databases(SQL),E-commerce, Cloud Computing
+NodeJS,ReactJS, nextJs, SpringBoot, Go,Bootstrap,Laravel,CodeIgniter,Databases(SQL),E-commerce, Azure, Jenkins,git
 
 Web Design
 
 Wordpress
+woocommerce
 webflow
 SEO expert
 
 Android 
 Java 
 
-Currently learning Flutter, ReactJs and AngularJs
+Currently learning CentOS (linux), Flutter and AngularJs
 
 I will feel great to connect with you.
 
