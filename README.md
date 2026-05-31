@@ -1,34 +1,55 @@
-- 👋 
+🚀 Ongidi E. Geofrey — Full-Stack Developer & Digital Solutions Engineer
+
+Building systems that are fast, clean, and built around your users.
 
 
-My name is Ongidi E. Geofrey. I am a result-driven Software developer.I aim to explore, build and practice building and manage world-class systems by creating functional, simple and attractive systems .
+👋 About Me
+Results-driven software engineer with 4+ years of experience turning ideas into powerful digital products. BSc Computer Science from Kibabii University. I specialise in building web and mobile applications that are responsive, intuitive, and scalable. I've led software engineering teams and thrive in collaborative environments — making me as reliable a partner as I am a builder.
 
-My excellent problem solving skills combined with a can-do attitude enables me to ensure the system’s performance, design, and user experience are up to the required standards.
+📊 At a Glance
+🗓️ Years Experience✅ Projects Completed😊 Happy Clients4+35+15+
 
-To guarantee that clients visions are brought to life, I do  ensure that unnecessary navigation options are trimmed down, apply responsive design and keep up with recent industry trends.
+🛠️ Tech Stack
+Frontend
+React.js Next.js Bootstrap HTML CSS JavaScript
+Backend
+Node.js Laravel Spring Boot Go PHP CodeIgniter
+Mobile
+Android Java & Flutter
 
+CMS & E-commerce
+WordPress WooCommerce Webflow
+Cloud & DevOps
+Azure Docker Jenkins Git GitHub
+Data & APIs
+SQL REST API Integration
+Other
+SEO Expert C# Python Docker Kubernetes
 
-Web development technologies 
-NodeJS,ReactJS, nextJs, SpringBoot, Go,Bootstrap,Laravel,CodeIgniter,Databases(SQL),E-commerce, Azure, Jenkins,git
+📚 Currently Learning
 
-Web Design
-
-Wordpress
-woocommerce
-webflow
-SEO expert
-
-Android 
-Java 
-
-Currently learning CentOS (linux), Flutter and AngularJs
-
-I will feel great to connect with you.
-
-Call/Whatsaap : 0748974489
-email :ongidigeofrey@gmail.com
-website : https://ongidigeofrey.github.io/OngidiGeofrey_portfolio/
-linkedlin :https://www.linkedin.com/in/geofrey-ongidi-4391a4211/
+🐧   Sofware Architecture and Design
 
 
 
+
+💼 What I Offer
+Whether you need a business website, a custom web application, an e-commerce store, or a mobile app — I deliver quality work on time and at affordable prices, with responsive design and clean user experience baked in from day one.
+
+✅ Affordable prices
+✅ High quality product
+✅ On-time project delivery
+✅ Responsive & mobile-first design
+✅ Clean UX with unnecessary navigation trimmed down
+
+
+📬 Get In Touch
+I'd love to connect and work with you!
+
+📞 Call / WhatsApp: +254 748 974 489
+📧 Email: ongidigeofrey@gmail.com
+🌐 Portfolio: ongidigeofrey.github.io
+💼 LinkedIn: linkedin.com/in/geofrey-ongidi-4391a4211
+
+
+Let's build something great together. 🚀
